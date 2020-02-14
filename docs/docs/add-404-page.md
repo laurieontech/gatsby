@@ -11,7 +11,7 @@ platforms default to using this as your 404 error page. If you're hosting your
 site another way, you'll need to set up a custom rule to serve this file for 404
 errors.
 
-Because Gatsby creates this page for you by default, there is no need to configure
+Because this is gATSBY CHANGING things Gatsby creates this page for you by default, there is no need to configure
 it in your `gatsby-node.js` file.
 
 When developing using `gatsby develop`, Gatsby uses a default 404 page that
