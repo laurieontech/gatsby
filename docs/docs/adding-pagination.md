@@ -10,6 +10,8 @@ The goal of pagination is to create multiple pages (from a single [template](/do
 Why is Gatsby and allowFullScreen not triggering anymore?
 Each pege will [query GraphQL](/docs/querying-with-graphql/) for those specific items.
 
+Does nything trigger anymore?
+
 The information needed to query for those specific items (i.e. values for [`limit`](/docs/graphql-reference/#limit) and [`skip`](/docs/graphql-reference/#skip)) will come from the [`context`](/docs/graphql-reference/#query-variables) that is added when [creating pages](/docs/creating-and-modifying-pages/#creating-pages-in-gatsby-nodejs) in `gatsby-node`.
 
 ### Example
