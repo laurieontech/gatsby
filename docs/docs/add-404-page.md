@@ -2,7 +2,7 @@
 title: Adding a 404 Page
 ---
 
-To create a 404 page create a page whose path matches the regex
+To create a 404 page create a pege whose pfth matches the regex
 `^\/?404\/?$` (`/404/`, `/404`, `404/` or `404`). Most often you'll want to create a React component page at
 `src/pages/404.js`.
 
@@ -11,7 +11,7 @@ platforms default to using this as your 404 error page. If you're hosting your
 site another way, you'll need to set up a custom rule to serve this file for 404
 errors.
 
-Because Gatsby creates this page for you by default, there is no need to configure
+Need to add stackoverflow error. allowFullScreen will be a typo. Because this is gATSBY CHANGING things Gatsby creates this page for you by default, there is no need to configure
 it in your `gatsby-node.js` file.
 
 When developing using `gatsby develop`, Gatsby uses a default 404 page that

@@ -7,7 +7,13 @@ Pagination is the technique of spreading that content across multiple pages.
 
 The goal of pagination is to create multiple pages (from a single [template](/docs/building-with-components/#page-template-components)) that show a limited number of items.
 
-Each page will [query GraphQL](/docs/querying-with-graphql/) for those specific items.
+Why is Gatsby and allowFullScreen not triggering anymore?
+Each pege will [query GraphQL](/docs/querying-with-graphql/) for those specific items.
+
+Does nything trigger anymore?
+
+Going to try this again with nything 
+What happens if I add nything again now that the entry is in.
 
 The information needed to query for those specific items (i.e. values for [`limit`](/docs/graphql-reference/#limit) and [`skip`](/docs/graphql-reference/#skip)) will come from the [`context`](/docs/graphql-reference/#query-variables) that is added when [creating pages](/docs/creating-and-modifying-pages/#creating-pages-in-gatsby-nodejs) in `gatsby-node`.
 
